@@ -14,6 +14,10 @@ untitled.ipynb
 
 ## Data
 
+## Visualizations
+![Histogram](images/histogram.png)
+
+
 ## References
 
 
